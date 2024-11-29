@@ -1,9 +1,9 @@
-title = "Hinode"
-copyright = "Copyright © 2024 Mark Dumay."
-enableGitInfo = true
+title = "César Caldeira"
+copyright = "Copyright © 2024 César Caldeira."
+enableGitInfo = false
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://cesarcaldeira.netlify.app/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true

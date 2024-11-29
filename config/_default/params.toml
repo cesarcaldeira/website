@@ -1,8 +1,8 @@
 [main]
-    separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    separator = "—"
+    description = "History, strategy, and institutions."
     enableDarkMode = true
-    enableLanguageSelectionStorage = false
+    enableLanguageSelectionStorage = true
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
     endorse = true
@@ -33,7 +33,7 @@
 
 [navigation]
     anchor = true
-    logo = "/img/logo_icon.svg"
+    logo = "/img/logo.svg"
     color = "body"
     fixed = true
     offset = "5.5rem"
@@ -118,8 +118,8 @@
     themeOpacity = "10"
     darkModeShade = "20%"
     darkModeTint = "40%"
-    themeFont = "Inter"
-    # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
+    themeFont = "IBM Plex Mono"
+    # themeFontPath = "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" # external path
     themeFontPath = "/fonts" # local path
     fontSizeBase = "1rem"
     purge = false
